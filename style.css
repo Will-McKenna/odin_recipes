@@ -1,0 +1,31 @@
+.recipe-img {
+  height: auto;
+  width: 250px;
+}
+
+.recipe-name {
+  font-size: 45px;
+  background-color: rgb(136, 136, 13);
+}
+
+.tagline {
+  color: rgb(255, 125, 10);
+  font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+h4.ingredients-header,
+h4.directions-header {
+  font-weight: 800;
+  font-family: Impact, Helvetica, sans-serif;
+  color: rgb(60, 60, 60);
+  background-color: rgb(222, 222, 222);
+}
+
+.ingredients li {
+  color: rgb(125, 0, 125);
+}
+
+.directions li {
+  color: rgb(50, 255, 25);
+  font-style: italic;
+}
